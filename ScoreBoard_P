@@ -2,7 +2,7 @@
 Author: Kayode Adejuwon
 Date: 4/19/2020
 Teacher: Dr. Tyson McMillan
-//Using object oriented coding for a scoreboard:  Basketball, classes Team, Scoreboard //PRIVATE TEAM class members
+//Using object oriented coding for a scoreboard:  Basketball, classes Team, Scoreboard
 #include <iostream>
 #include <unistd.h> //for sleep command
 #include <string>
@@ -154,9 +154,9 @@ void scoreboardControls()
 
 
   //Access the data outside of the class 
-  /*cout << "\n Period here " << s.getPeriod() << endl; 
+  //*cout << "\n Period here " << s.getPeriod() << endl; 
   cout << "\n Team 1 intial name: " << s.getTeam1().getName() << endl; 
-  */
+
 
   //work with the scoreboard and menu 
   do
